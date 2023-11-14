@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - basket
+  - border
+  - gameOver
+  - line
+  - background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - UnderBasket
+  - UpperBasket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 476188491
+    locked: 0
+  - name: basketBehind
+    uniqueID: 710298807
+    locked: 0
+  - name: wool
+    uniqueID: 1739274951
+    locked: 0
+  - name: basket
+    uniqueID: 313846363
+    locked: 0
+  - name: UI
+    uniqueID: 3496551977
+    locked: 0
